@@ -23,7 +23,7 @@ Contradiction	Hypothesis contradicts premise
 🏗️ Architecture Highlights
 🔹 BERT from Scratch
 
-Implemented a full 12-Layer Transformer Encoder including:
+Implemented a full multi-layered Transformer Encoder including:
 
 Multi-Head Self Attention
 
