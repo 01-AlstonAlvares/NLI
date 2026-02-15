@@ -1,6 +1,6 @@
-🧠 12-Layer Sentence-BERT (SBERT) for Natural Language Inference
+🧠 Sentence-BERT (SBERT) for Natural Language Inference
 
-A from-scratch 12-Layer BERT model fine-tuned using a Siamese Sentence-BERT architecture for Natural Language Inference (NLI) with real-time web prediction.
+A from-scratch BERT model fine-tuned using a Siamese Sentence-BERT architecture for Natural Language Inference (NLI) with real-time web prediction.
 
 ✨ Project Overview
 
