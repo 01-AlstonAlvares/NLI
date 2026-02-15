@@ -70,10 +70,15 @@ Wikipedia dataset (>20GB) is processed using HuggingFace Streaming Mode, allowin
 
 Evaluation on 1,000 SNLI validation samples after 5 training epochs:
 
-Class	Precision	Recall	F1-Score	Support
-Entailment	0.76	0.76	0.76	331
-Neutral	0.66	0.70	0.68	333
-Contradiction	0.75	0.71	0.73	336
+| Class | Precision | Recall | F1-Score | Support |
+|------|-----------|--------|----------|---------|
+| Entailment | 0.76 | 0.76 | 0.76 | 331 |
+| Neutral | 0.66 | 0.70 | 0.68 | 333 |
+| Contradiction | 0.75 | 0.71 | 0.73 | 336 |
+| **Accuracy** |  |  | **0.72** | 1000 |
+| **Macro Avg** | 0.73 | 0.72 | 0.72 | 1000 |
+| **Weighted Avg** | 0.73 | 0.72 | 0.72 | 1000 |
+
 🏆 Overall Accuracy: 72%
 🌐 Task 4 — Web Application
 
