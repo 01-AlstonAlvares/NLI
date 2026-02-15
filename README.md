@@ -142,7 +142,6 @@ The most significant challenge was managing the **computational and storage over
 * Full Wikipedia + SNLI datasets exceed **20GB**, requiring a shift to **streaming mode**.
 * Scaling to deeper layers increased **training time and VRAM usage**.
 * Batch sizes had to be tuned carefully to avoid **GPU Out-of-Memory errors**.
-* Dataset noise and conflicting labels in validation caused errors during performance reporting and required cleaning.
 
 ---
 
